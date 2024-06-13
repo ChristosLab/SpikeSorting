@@ -1,0 +1,8 @@
+**/*.asv
+ks_log.txt
+/Misc/
+/Analysis/
+/Figures/
+/Obsolete/
+/External/crameri-main/
+start_ks_pipeline.m
